@@ -1,0 +1,4 @@
+﻿,Predicted Human Real,Predicted Human Fake,Predicted AI Generated
+Actual Human Real,209,98,1
+Actual Human Fake,94,215,0
+Actual AI Generated,3,4,25

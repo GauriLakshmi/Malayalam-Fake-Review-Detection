@@ -1,0 +1,4 @@
+﻿source_dataset,translation_method,proofreading_status,count
+20kto3k (1).csv,machine,pending,3000
+mal20kto1000 (1).csv,machine,pending,3
+malayalam sample aug 27 (1).csv,human,human_translated,80

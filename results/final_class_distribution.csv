@@ -1,0 +1,4 @@
+﻿label,class_name,source_type,count,percentage
+0,Human Real,human,1540,47.5
+1,Human Fake,human,1543,47.59
+2,AI Generated,ai_generated,159,4.9
